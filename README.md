@@ -8,8 +8,9 @@ docker-compose build
 
 docker-compose up
 ```
-
-<h3>2. To run project</h3>
+<br>
+<br>
+ <h3>2. To run project</h3>
 
 ```
 docker-compose run web-app python manage.py makemigrations
