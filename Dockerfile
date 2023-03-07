@@ -6,6 +6,7 @@ COPY CharitySolution /CharitySolution
 WORKDIR /CharitySolution
 EXPOSE 8000
 
+
 RUN pip install -r /requirements/requirements.txt
 
 RUN adduser --disabled-password user

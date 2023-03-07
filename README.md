@@ -15,5 +15,4 @@ docker-compose up
 docker-compose run web-app python manage.py makemigrations
 
 docker-compose run web-app python manage.py migrate
-```# CharitySolution-docker
-# CharitySolution_docker
+```
