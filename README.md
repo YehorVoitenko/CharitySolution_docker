@@ -1,5 +1,5 @@
 # CharitySolution_docker
-<h3>1. Clone main project 'ChoritySolution'</h3>
+<h3>1. Clone main project 'ChritySolution'</h3>
 
 ```
 git clone https://github.com/YehorVoitenko/CharitySolution.git
