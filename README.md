@@ -17,7 +17,7 @@ docker-compose up
 ```
 <br>
 <br>
- <h3>3. To run project</h3>
+ <h3>3. To run migrations</h3>
 
 ```
 docker-compose run web-app python manage.py makemigrations
